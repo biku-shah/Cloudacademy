@@ -23,3 +23,6 @@ Cursus mattis molestie a iaculis at erat pellentesque adipiscing
 commodo. Arcu cursus euismod quis viverra nibh cras pulvinar
  mattis. 
 >>>>>>> e3500e9 (feature_1 - change 2)
+
+
+Curabitur et velit semper, interdum mauris eu, condimentum tellus. Cras vel nisi ut urna ultrices interdum sed non odio. Nulla auctor tellus a ipsum congue, at consequat nisl commodo.
